@@ -1,4 +1,5 @@
 <?php
+
 namespace SocialiteProviders\Dailymotion;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
